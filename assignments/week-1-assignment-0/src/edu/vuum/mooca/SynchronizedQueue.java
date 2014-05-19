@@ -2,6 +2,7 @@ package edu.vuum.mooca;
 import java.util.concurrent.*;
 
 /**
+ * 
  * @class SynchronizedQueue
  * 
  * @brief This class tests the use of Java Threads and several
